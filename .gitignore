@@ -5,3 +5,5 @@
 /DotNetLearning/DotNetLearning.EmployeeManager/obj
 /DotNetLearning/DotNetLearning.EmployeeManager/bin/Debug
 *.user
+/DotNetLearning/.vs/DotNetLearning/v15/Server/sqlite3
+/DotNetLearning/.vs/DotNetLearning/v15
