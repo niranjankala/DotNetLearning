@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNetLearning/DotNetLearning.EmployeeManager/obj
+/DotNetLearning/DotNetLearning.EmployeeManager/bin/Debug
+*.user
