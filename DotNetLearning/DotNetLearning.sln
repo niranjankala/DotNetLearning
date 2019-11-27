@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLearning.EmployeeManager", "DotNetLearning.EmployeeManager\DotNetLearning.EmployeeManager.csproj", "{F1070803-FAA3-4DE1-9A97-48EB9F2CFE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetLearning.QueueManager", "DotNetLearning.QueueManager\DotNetLearning.QueueManager.csproj", "{0F27AF39-EC12-43CA-AF15-AB206026E03E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F1070803-FAA3-4DE1-9A97-48EB9F2CFE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1070803-FAA3-4DE1-9A97-48EB9F2CFE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1070803-FAA3-4DE1-9A97-48EB9F2CFE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F27AF39-EC12-43CA-AF15-AB206026E03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F27AF39-EC12-43CA-AF15-AB206026E03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F27AF39-EC12-43CA-AF15-AB206026E03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F27AF39-EC12-43CA-AF15-AB206026E03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

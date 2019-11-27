@@ -2,8 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/DotNetLearning/DotNetLearning.EmployeeManager/obj
-/DotNetLearning/DotNetLearning.EmployeeManager/bin/Debug
+obj
+Debug
 *.user
-/DotNetLearning/.vs/DotNetLearning/v15/Server/sqlite3
-/DotNetLearning/.vs/DotNetLearning/v15
+.vs
+packages/
